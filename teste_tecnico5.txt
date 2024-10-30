@@ -1,0 +1,14 @@
+A)Liguei o primeiro interruptor e espere alguns minutos até a lâmpada aquecer e então desligue o mesmo
+B)Ligue o segundo interruptor e vá para uma das salas
+
+OPÇÕES DE LÂMPADA
+
+A)a lâmpada que estiver apagada porém quente pertence ao primeiro interruptor
+
+B)a lâmpada que estiver acessa pertence ao segundo interruptor
+
+C)a lâmpada que estiver apaga e fria pertence ao terceiro interruptor
+
+CONCLUSÃO
+
+Utilizando a primeira ida para a primeira sala e mais uma para a próxima sala, assim saberá a quais interruptores pertence cada lâmpada

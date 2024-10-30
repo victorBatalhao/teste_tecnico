@@ -1,0 +1,6 @@
+a) 9 (somando +2 a cada número)
+b) 128 (mulpilaca *2 a cada número)
+c) 49 (números ao quadrado ex: 1*1, 2*2, 3*3, 4*4, 5*5, 6*6, 7*7, 8*8, 9*9, 10*10)
+d) 100 (sequência de números quadrados pares)
+e) 13 (sequencia de Fibonacci)
+f) 20 (soma de 1 em 1 após o número 16)
